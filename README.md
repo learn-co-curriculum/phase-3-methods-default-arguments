@@ -1,4 +1,4 @@
-# Methods with Default Arguments
+# Default Arguments
 
 ## Overview
 
