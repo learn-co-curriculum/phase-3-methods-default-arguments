@@ -1,14 +1,14 @@
 # Default Arguments
 
-## Overview
+## Learning Goals
+
+- Define a method to take in optional arguments by assigning a default value. 
+- Call a method with and without its optional arguments. 
+- Define a method that takes in both required and optional arguments.
+
+## Introduction
 
 We'll introduce methods that take in optional arguments and cover why they're important to programming. 
-
-## Objectives
-
-1. Define a method to take in optional arguments by assigning a default value. 
-2. Call a method with and without its optional arguments. 
-3. Define a method that takes in both required and optional arguments.
 
 ## Why Optional Arguments?
 
